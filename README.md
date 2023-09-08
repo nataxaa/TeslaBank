@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="Barber" title="#del" src="github/logo.png" width="150px" borderRadius="20px" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Landing page de um banco fictício.
 
-## Available Scripts
+<p align="center">
+  <a href="https://github.com/nataxaa">
+    <img alt="Author" src="https://img.shields.io/badge/author-nataxaa-33A1F2?style=flat-square">
+  </a>
 
-In the project directory, you can run:
+  <a href="#">
+    <img alt="Languages" src="https://img.shields.io/github/languages/count/nataxaa/TeslaBank?color=33A1F2&style=flat-square">
+  </a>
 
-### `yarn start`
+  <a href="https://github.com/nataxaa/TeslaBank/commits/master">
+    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/nataxaa/TeslaBank?color=33A1F2&style=flat-square">
+  </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="#">
+    <img alt="RepoSize" src="https://img.shields.io/github/repo-size/nataxaa/TeslaBank?color=33A1F2&style=flat-square">
+  </a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</p>
 
-### `yarn test`
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Projeto
 
-### `yarn build`
+Projeto de template de uma landing page para um banco feito em ReactJS com TypeScript e responsivo.
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🌐 Preview
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h1 align="center">
+    <img src="github/github_video.gif" />
+</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Tecnologias
 
-### `yarn eject`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [React](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🔥 Instalação
+```bash
+$ yarn
+$ npm start
+```
+<br/>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## ⛅
 
-## Learn More
+- [Deploy](https://courageous-tulumba-716344.netlify.app/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="center">
+  Made with 💙 by <a href="https://www.linkedin.com/in/natan-xavier-a266a0228/"> Natan Xavier </a>
+</p>
