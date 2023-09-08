@@ -6,7 +6,9 @@ export const Container = styled.header`
     justify-content: space-between;
     background-color: #F2F4FD;
     padding: 20px 30px;
-
+    .list-mobile{
+        display: none;
+    }
     ul{
         display: flex;
         align-items: center;
@@ -37,8 +39,18 @@ export const Container = styled.header`
     @media (max-width: 768px) {
         width: 100% ;
         background-color: var(--red-color);
+        padding: 5px 20px;
+        .list-mobile{
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+        }
         .list{
             display: none;
+        }
+        .icon-hamburguer{
+            color: #FFFFFF;
+           font-size: 2rem;
         }
         padding: 0;
         p{
