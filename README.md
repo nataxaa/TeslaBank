@@ -55,7 +55,7 @@ $ npm start
 
 ## ⛅
 
-- [Deploy](https://courageous-tulumba-716344.netlify.app/)
+- [Deploy](https://curious-sunflower-8a67d1.netlify.app/)
 
 <p align="center">
   Made with 💙 by <a href="https://www.linkedin.com/in/natan-xavier-a266a0228/"> Natan Xavier </a>
